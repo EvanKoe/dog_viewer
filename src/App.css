@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background: linear-gradient(#8f0101, #212121);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.title {
+  color: lightblue
+}
+
+.button {
+  padding: 20px 40px;
+  border-radius: 10px;
+  color: lightblue;
+  background-color: #212121;
+  font-weight: bolder;
+  font-size: 30px;
+  margin-top: 2%;
+}
+
+.image {
+  width: 400px;
+  height: 400px;
+  border-radius: 10px;
+  margin-top: 5%;
+}
